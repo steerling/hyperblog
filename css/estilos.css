@@ -1,7 +1,7 @@
 #estilos.css
 body
 {
-    color: rgb(0, 0, 0);
+    color: #333;
     text-align: center;
     font-family: "courier";
     font-size: 5px;
@@ -13,7 +13,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 5px solid #DDD;
+    border: 5px solid rgb(161, 8, 8);
     margin: 0 auto;
 }
 
